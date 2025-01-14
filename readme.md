@@ -109,7 +109,7 @@ Features:
 DB_HOST=localhost
 DB_USER=your_username
 DB_PASSWORD=your_password
-DB_NAME=resume_app
+DB_NAME=doctorallaince_assignment
 JWT_SECRET=your_jwt_secret
 PORT=3000
 ```
